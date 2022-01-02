@@ -1,0 +1,2 @@
+# slider
+ Vanilla Slider
